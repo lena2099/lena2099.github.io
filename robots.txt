@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /tech-tools-hub/
-Allow: /tech-tools-hub/sitemap.xml
-Sitemap: https://lena2099.github.io/tech-tools-hub/sitemap.xml
+Sitemap: https://lena2099.github.io/sitemap.xml
 
 User-agent: Googlebot
 Allow: /tech-tools-hub/
